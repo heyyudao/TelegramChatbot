@@ -16,3 +16,6 @@ Lastly, once you have setup for environment, you can run it on your console :
 python server.py
 
 Alternatively, you can create an Pythonanywhere account and run 24/7 (comes with 5 dollar subscription fee minimally).
+![Api2](https://user-images.githubusercontent.com/62549753/124342831-89ca2c80-dbf9-11eb-8331-5105bfcd2382.JPG)
+
+Of cos the function of this code is minimal. It only returns what you send in a 'gangster' manner. Feel free to add more functions.
